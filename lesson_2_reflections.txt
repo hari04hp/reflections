@@ -4,3 +4,8 @@ A .git folder containing all the git informations regarding the git repo is crea
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is the intermediate between working directory and repo. It just regularizes commit like even if there are so many changes we can select particular ones
 in staging area and make a single commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+Instead of commiting all the logical changes in one commit, I can use the staging area to use it as a temp place to store files that contains one logical change and then
+can commit those.
+
