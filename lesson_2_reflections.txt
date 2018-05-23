@@ -9,3 +9,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 Instead of commiting all the logical changes in one commit, I can use the staging area to use it as a temp place to store files that contains one logical change and then
 can commit those.
 
+How do the diagrams help you visualize the branch structure?
+It  helps us to know the parent commits and let us know when we will reach detached HEAD state, when there is a possibility to lose commits adn when we need to create a branch
