@@ -10,4 +10,9 @@ Instead of commiting all the logical changes in one commit, I can use the stagin
 can commit those.
 
 How do the diagrams help you visualize the branch structure?
-It  helps us to know the parent commits and let us know when we will reach detached HEAD state, when there is a possibility to lose commits adn when we need to create a branch
+It  helps us to know the parent commits and let us know when we will reach detached HEAD state, when there is a possibility to lose commits and when we need to create a branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When we merge two branches together, most of the lines that may be required by the final file is logically analyzed by Git and it merges them in case of feature addition.
+Diagrammatic representation stores in our memory faster than writing.
+
