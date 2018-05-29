@@ -13,4 +13,7 @@ Branches is taking  a new part from existing codes in a case where  the changes 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that we can edit and know the previous changes made and can merge them into newer commits done by other people.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without git or github, we need to ask the other person to send the code directory after changes and we need to merge them manually with our codes which takes time
+But with git its easier to collaborate codes and review other codes.
 
