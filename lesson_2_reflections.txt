@@ -16,3 +16,6 @@ What is the result of merging two branches together? Why do we represent it in t
 When we merge two branches together, most of the lines that may be required by the final file is logically analyzed by Git and it merges them in case of feature addition.
 Diagrammatic representation stores in our memory faster than writing.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros are that it basically knows what to merge and what to not and does that. So its faster.
+Sometimes the required lines are replaces with buggy lines. At that time, automatic merging is not useful.
