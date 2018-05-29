@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When other people than us has the needs to edit and commit codes, then a remote repository is required.
