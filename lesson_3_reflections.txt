@@ -10,3 +10,7 @@ Clone is just making a copy of the repo from one location to other or from remot
 Forks is making a copy of one github account to another.
 Branches is taking  a new part from existing codes in a case where  the changes should not be applied in main code till the new part is approved
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So that we can edit and know the previous changes made and can merge them into newer commits done by other people.
+
+
